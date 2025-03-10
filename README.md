@@ -104,22 +104,6 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 | [Video Summarization](https://github.com/satel33/Video-Summarization) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
 | [Multimodal RAG with Video Frames](https://github.com/satel33/Multimodal-RAG-with-Video-Frames) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
 | [Books Reranking Semantic Search](https://github.com/satel33/Books-Reranking-Semantic-Search) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
-| [RAG Evaluation with Ragas](https://github.com/satel33/RAG-Evaluation-with-Ragas) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  |  |
-| [PII RAG LlamaIndex Milvus](https://github.com/satel33/PII-RAG-LlamaIndex-Milvus) | OpenAI<br>Presidio<br>LlamaIndex<br>Milvus |  |  |  |
-| [Multimodal RAG with PyMuPDF](https://github.com/satel33/Multimodal-RAG-with-PyMuPDF) | OpenAI<br>Qdrant<br>LlamaIndex<br>PyMuPDF |  |  |  |
-| [Agentic RAG LlamaIndex Milvus](https://github.com/satel33/Agentic-RAG-LlamaIndex-Milvus) | OpenAI<br>Claude<br>LlamaIndex<br>Milvus |  |  |  |
-| [Agentic RAG with LangChain](https://github.com/satel33/Agentic-RAG-with-LangChain) | OpenAI<br>Groq<br>LangChain<br>Pinecone |  |  |  |
-| [Agentic RAG with CrewAI](https://github.com/satel33/Agentic-RAG-with-CrewAI) | OpenAI<br>LangChain<br>Qdrant<br>CrewAI Agents |  |  |  |
-| [Fine Tuning Gemma 2B](https://github.com/satel33/Fine-Tuning-Gemma-2B) | 	Hugging Face Transformers<br>PEFT (LoRA/QLoRA) | HuggingFace |  |  |
-| Data Analysis + Modeling | 	 |  |  |  |
-| [News Classification](https://github.com/satel33/News-Classification) | 	Scikit-learn (Multinomial Naive Bayes)<br>Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
-| [Breast Cancer Classification](https://github.com/satel33/Breast-Cancer-Classification) | 	Scikit-learn<br>Spark | IBM  |  |  |
-| [Bank Churn Classification](https://github.com/satel33/Bank-Churn-Classification) | 	Scikit-learn<br>LightGBM<br>XGBoost<br>CatBoost | |  |  |
-| Data Engineering |  | |  |  |
-| [Hotel Reviews](https://github.com/satel33/Hotel-Reviews) | Prefect<br>Spark<br>SQL<br>BigQuery<br>dbt<br>Terraform<br>Looker | GCP |  | Orchestration<br>Linting<br>Formatting<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD |
-| [Air Quality Switzerland](https://github.com/satel33/Air-Quality-Switzerland) | Mage<br>dbt<br>SQL<br>BigQuery<br>Docker<br>Terraform<br>Looker | GCP |  | Orchestration<br>IaC<br>Containerization<br>CI/CD |
-| Miscellaneous |  |  |  |  |
-| [Justicio Web Scraping](https://github.com/satel33/Justicio-Web-Scraping) | Beautiful Soup<br>MySQL |  |  | Error Handling |
 
 
 ## 🧮 Tech Stack
