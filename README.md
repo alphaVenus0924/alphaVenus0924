@@ -85,7 +85,7 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 | Project Name | Main Libraries | Cloud Service | App | DevOps Best Practice |
 |----------|--------|----------|----------|--------------|
 | ML/MLOps |  |  |  |  |
-| [MLOps Credit Default](https://github.com/satel33/MLOps-Credit-Default) | Scikit-learn<br>LightGBM<br>MLflow | AWS/Databricks | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD|
+| [MLOps Credit Default](https://github.com/alphaVenus0924/MLOps.git) | Scikit-learn<br>LightGBM<br>MLflow | AWS/Databricks | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD|
 | [Medical Insurance Costs Prediction](https://github.com/satel33/MLOps-Aws-Insurance) | Scikit-learn<br>TensorFlow<br>SageMaker<br>Comet ML<br>Flask | AWS | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Model/Data<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Coverage<br>IaC<br>CI/CD|
 | [Stroke Prediction](https://github.com/satel33/Stroke-Prediction) | Scikit-learn<br>XGBoost<br>SageMaker<br>Comet ML<br>Flask<br>Docker | AWS | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Containerization<br>Testing<br>Error Handling |
 | [Car Price Prediction](https://github.com/satel33/Car-Price-Prediction) | Scikit-learn<br>TensorFlow<br>MLFlow<br>Prefect<br>Flask<br>Docker<br>Grafana<br>Terraform | AWS | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>IaC<br>CI/CD |
