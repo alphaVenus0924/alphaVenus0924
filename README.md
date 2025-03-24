@@ -1,4 +1,4 @@
-<h3 align="center"> Fullstack Engineer | AI/ML Engineer </h3>
+<h3 align="center"> Senior Fullstack Engineer | AI/ML Engineer | 8+ Experience Owner! </h3>
 <hr>
 
 
