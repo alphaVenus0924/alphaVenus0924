@@ -84,6 +84,8 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 
 | Project Name | Main Libraries | Cloud Service | App | DevOps Best Practice |
 |----------|--------|----------|----------|--------------|
+| Fullstack Development |  |  |  |  |
+| [Social-plugin](https://github.com/alphaVenus0924/Social-plugin.git) | Scikit-learn<br>LightGBM<br>MLflow | AWS/Databricks | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD|
 | ML/MLOps |  |  |  |  |
 | [MLOps Credit Default](https://github.com/alphaVenus0924/MLOps.git) | Scikit-learn<br>LightGBM<br>MLflow | AWS/Databricks | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD|
 | [Medical Insurance Costs Prediction](https://github.com/alphaVenus0924/Medical-Insurance-Cost-Prediction.git) | Scikit-learn<br>TensorFlow<br>SageMaker<br>Comet ML<br>Flask | AWS | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Model/Data<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Coverage<br>IaC<br>CI/CD|
