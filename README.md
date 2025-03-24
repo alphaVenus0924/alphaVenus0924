@@ -102,7 +102,7 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 | [Scalable RAG with Kubernetes](https://github.com/alphaVenus0924/Scalable-RAG-with-Kubernetes.git) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
 | [Research Papers Semantic Search](https://github.com/alphaVenus0924/Research-Papers-Semantic-Search.git) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
 | [Video Summarization](https://github.com/alphaVenus0924/Video-Summarization.git) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
-| [Multimodal RAG with Video Frames](https://github.com/satel33/Multimodal-RAG-with-Video-Frames) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
+| [Multimodal RAG with Video Frames](https://github.com/alphaVenus0924/Multimodal-RAG-with-Video-Frames.git) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
 | [Books Reranking Semantic Search](https://github.com/satel33/Books-Reranking-Semantic-Search) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
 
 
