@@ -94,7 +94,7 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 | [Birds Classification](https://github.com/alphaVenus0924/Bird-Identify.git) | Pytorch | | Gradio |  |
 | [Food Prediction](https://github.com/alphaVenus0924/Food-Prediction.git) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | LLM, RAG and Fine-tuning |  |  |  |  |
-| [RAG Hybrid Search and Semantic Caching](https://github.com/satel33/RAG-Hybrid-Search-and-Semantic-Caching) | Qdrant<br>FastEmbed<br>SPLADE<br>Hugging Face Transformers |  |  | Error Handling<br>Linting<br>Formatting |
+| [RAG Hybrid Search and Semantic Caching](https://github.com/alphaVenus0924/RAG-Hybrid-Search-and-Semantic-Caching.git) | Qdrant<br>FastEmbed<br>SPLADE<br>Hugging Face Transformers |  |  | Error Handling<br>Linting<br>Formatting |
 | [Multimodal Bill Scan System](https://github.com/satel33/Multimodal-Bill-Scan-System) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
 | [IaC in RAG Applications with Terraform](https://github.com/satel33/IaC-in-RAG-Applications-with-Terraform) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
 | [Scalable RAG in AWS with Fargate](https://github.com/satel33/Scalable-RAG-in-AWS-with-Fargate) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
