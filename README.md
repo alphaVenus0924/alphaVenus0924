@@ -91,7 +91,7 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 | [Car Price Prediction](https://github.com/alphaVenus0924/Car-Price-Prediction.git) | Scikit-learn<br>TensorFlow<br>MLFlow<br>Prefect<br>Flask<br>Docker<br>Grafana<br>Terraform | AWS | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>IaC<br>CI/CD |
 | [Taxi Rides Prediction](https://github.com/alphaVenus0924/Taxi-Rides-Prediction.git) | Scikit-learn<br>TensorFlow<br>MLFlow<br>Prefect<br>FastAPI<br>Docker | GCP | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>Containerization<br>Error Handling|
 | [Music Clustering](https://github.com/alphaVenus0924/MusicClustering.git) | Scikit-learn<br>FastAPI<br>Docker | GCP | Streamlit | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>ContainerizationError Handling |
-| [Birds Classification](https://github.com/satel33/Birds-Classification) | Pytorch | | Gradio |  |
+| [Birds Classification](https://github.com/alphaVenus0924/Bird-Identify.git) | Pytorch | | Gradio |  |
 | [Food Prediction](https://github.com/satel33/Food-Prediction) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | LLM, RAG and Fine-tuning |  |  |  |  |
 | [RAG Hybrid Search and Semantic Caching](https://github.com/satel33/RAG-Hybrid-Search-and-Semantic-Caching) | Qdrant<br>FastEmbed<br>SPLADE<br>Hugging Face Transformers |  |  | Error Handling<br>Linting<br>Formatting |
